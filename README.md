@@ -27,7 +27,9 @@ Open `index.html` in any modern browser.
 
 ```bash
 git clone https://github.com/gizzardkey/json-formatter.git
+
 cd json-formatter
+
 start index.html
 ```
 
