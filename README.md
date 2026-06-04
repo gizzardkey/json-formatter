@@ -26,7 +26,7 @@ Open `index.html` in any modern browser.
 ## Installation (Local)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/json-formatter.git
+git clone https://github.com/gizzardkey/json-formatter.git
 cd json-formatter
 # Open index.html in your browser
 ```
