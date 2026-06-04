@@ -44,6 +44,8 @@ start index.html
 
 MIT - Feel free to use this project freely!
 
+![License: MIT](https://img.shields.io/badge/license-MIT-blue)
+![Status: Active](https://img.shields.io/badge/status-active-brightgreen)
 ---
 
 Made with ❤️ for developers
